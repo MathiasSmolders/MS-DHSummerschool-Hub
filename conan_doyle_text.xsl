@@ -62,6 +62,10 @@
             <xsl:apply-templates/>
         </span>
     </xsl:template>
+
+    <xsl:template match="tei:lb">
+        <br/><xsl:apply-templates/>
+    </xsl:template>
     
     <!-- add additional templates below, for example to transform the tei:lb to <br/> empty elements, tei:hi[@rend = 'sup'] in <sup> elements, the underlined text, additions with the attribute "overwritten" etc. -->
 
