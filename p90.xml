@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title type="main">[untitled]</title>
+         </titleStmt>
+         <publicationStmt>
+            <p>Unpublished</p>
+         </publicationStmt>
+         <sourceDesc>
+            <p>Born digital</p>
+         </sourceDesc>
+      </fileDesc>
+   </teiHeader>
+   <facsimile>
+      <surface ulx="0" uly="0" lrx="5396" lry="7115" xml:id="facs_1">
+         <graphic url="090_43v.jpeg" width="5396px" height="7115px"/>
+         <graphic url="https://files.transkribus.eu/Get?fileType=view&amp;id=LXRQDBIJHFSOYGQOVHLUTMJV" width="5396px" height="7115px"/>
+         <zone points="4799,619 5042,619 5042,811 4799,811" rendition="TextRegion" xml:id="facs_1_r">
+            <zone points="4799,413 5018,413 5018,827 4799,827" rendition="Line" xml:id="facs_1_l"/>
+         </zone>
+         <zone points="74,969 5289,969 5289,6823 74,6823" rendition="TextRegion" xml:id="facs_1_r_1">
+            <zone points="269,965 2537,965 2537,1316 269,1316" rendition="Line" xml:id="facs_1_l_1"/>
+            <zone points="1034,1228 4862,1228 4862,1610 1034,1610" rendition="Line" xml:id="facs_1_l_2"/>
+            <zone points="282,1535 5244,1535 5244,1930 282,1930" rendition="Line" xml:id="facs_1_l_3"/>
+            <zone points="282,1880 2644,1880 2644,2280 282,2280" rendition="Line" xml:id="facs_1_l_4"/>
+            <zone points="1071,2124 2988,2124 2988,2487 1071,2487" rendition="Line" xml:id="facs_1_l_5"/>
+            <zone points="1059,2443 4548,2443 4548,2863 1059,2863" rendition="Line" xml:id="facs_1_l_6"/>
+            <zone points="1040,2757 1804,2757 1804,3126 1040,3126" rendition="Line" xml:id="facs_1_l_7"/>
+            <zone points="1046,3051 4880,3051 4880,3408 1046,3408" rendition="Line" xml:id="facs_1_l_8"/>
+            <zone points="1053,3339 5075,3339 5075,3703 1053,3703" rendition="Line" xml:id="facs_1_l_9"/>
+            <zone points="1272,3609 5150,3609 5150,4016 1272,4016" rendition="Line" xml:id="facs_1_l_10"/>
+            <zone points="244,3909 5219,3909 5219,4323 244,4323" rendition="Line" xml:id="facs_1_l_11"/>
+            <zone points="219,4223 5250,4223 5250,4586 219,4586" rendition="Line" xml:id="facs_1_l_12"/>
+            <zone points="226,4517 4060,4517 4060,4918 226,4918" rendition="Line" xml:id="facs_1_l_13"/>
+            <zone points="1197,4786 4918,4786 4918,5219 1197,5219" rendition="Line" xml:id="facs_1_l_14"/>
+            <zone points="194,5106 5169,5106 5169,5501 194,5501" rendition="Line" xml:id="facs_1_l_15"/>
+            <zone points="226,5407 5156,5407 5156,5814 226,5814" rendition="Line" xml:id="facs_1_l_16"/>
+            <zone points="213,5739 1585,5739 1585,6127 213,6127" rendition="Line" xml:id="facs_1_l_17"/>
+            <zone points="1479,6014 5150,6014 5150,6409 1479,6409" rendition="Line" xml:id="facs_1_l_18"/>
+            <zone points="88,6206 882,6206 882,6524 88,6524" rendition="Line" xml:id="facs_1_l_19"/>
+            <zone points="213,6315 5068,6315 5068,6722 213,6722" rendition="Line" xml:id="facs_1_l_20"/>
+         </zone>
+      </surface>
+   </facsimile>
+   <text>
+      <body>
+         <div><pb facs="#facs_1" n="1" xml:id="img_0001"/>
+            <ab facs="#facs_1_r" type="">
+               <lb facs="#facs_1_l" n="N001"/>42
+            </ab>
+            <ab facs="#facs_1_r_1" type="">
+               <lb facs="#facs_1_l_1" n="N001"/>straw crackled and flamed.
+               <lb facs="#facs_1_l_2" n="N002"/>"Now we must see if we can find this witness for
+               <lb facs="#facs_1_l_3" n="N003"/>you, Lestrade. Might I ask you all to join in the cry of Fire.
+               <lb facs="#facs_1_l_4" n="N004"/>now then, one - two - three -
+               <lb facs="#facs_1_l_5" n="N005"/>"Fire!" we all yelled.
+               <lb facs="#facs_1_l_6" n="N006"/>"Thank you. I will trouble you once again"
+               <lb facs="#facs_1_l_7" n="N007"/>"Fire!"
+               <lb facs="#facs_1_l_8" n="N008"/>"Just once more, gentlemen, and all together"
+               <lb facs="#facs_1_l_9" n="N009"/>"Fire!" The shout must have rung over Norwood.
+               <lb facs="#facs_1_l_10" n="N010"/>It had hardly died away when an amazing thing
+               <lb facs="#facs_1_l_11" n="N011"/>happened. A door suddenly flew open out of what appeared to be
+               <lb facs="#facs_1_l_12" n="N012"/>solid wall at the end of the corridor, and a little wizened man
+               <lb facs="#facs_1_l_13" n="N013"/>darted out of it, like a rabbit out of its burrow.
+               <lb facs="#facs_1_l_14" n="N014"/>"Capital!" said Holmes calmly" Watson, a
+               <lb facs="#facs_1_l_15" n="N015"/>buchet of water over the straw. That will do! Lestrade, allow
+               <lb facs="#facs_1_l_16" n="N016"/>me to precent you with your principal missing witness, Mr.
+               <lb facs="#facs_1_l_17" n="N017"/>Jonas Oldacre."
+               <lb facs="#facs_1_l_18" n="N018"/>The detictive <strikethrough>and the newcomer</strikethrough> stared at each
+               <lb facs="#facs_1_l_19" n="N019"/><add>the newcomer</add>
+               <lb facs="#facs_1_l_20" n="N020"/>other with blank amazement. <strikethrough><unclear>...</unclear></strikethrough> The latter was blinking in
+            </ab></div>
+      </body>
+   </text>
+</TEI>
